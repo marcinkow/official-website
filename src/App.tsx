@@ -1,14 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-
   return (
     <>
-      <p>
-        MKO 
-      </p>
+      <h1 className="text-3xl font-bold underline">MKO</h1>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+.log/
+node_modules/
+docs/
+css/
+export.scss
+export/
